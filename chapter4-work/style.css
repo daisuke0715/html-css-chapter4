@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 50px;
+    width: 100%;
+}
+
+.header-item {
+    height: 50px;
+    background-color: red;
+}
+
+.first-section {
+    height: 500px;
+    background-color: orange;
+}
+
+.second-section {
+    height: 1400px;
+}
+
+.parent {
+    width: 960px;
+    background-color: chartreuse;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.child {
+    width: 500px;
+    background-color: green;
+    height: 100%;
+    margin: 0 auto;
+}
+
+
+.footer {
+    height: 100px;
+    background-color: blue;
+}
